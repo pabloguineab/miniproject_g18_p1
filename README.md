@@ -23,8 +23,4 @@ The HTML page should include the following components:
 - Colored Markdown text using HTML tags (0.5 points)
 - An image, with the file included in the repository (0.5 points)
 
-Please refer to the repository for more details and examples.
 
-Note: Points mentioned above are tentative and subject to evaluation.
-
-*Make sure to replace the relevant sections with your actual content and provide appropriate links and descriptions.*
